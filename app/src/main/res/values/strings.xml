@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+    <string name="no_internet">Make Sure You Are Connected To The Internet</string>
+</resources>
